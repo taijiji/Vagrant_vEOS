@@ -2,7 +2,6 @@
 
 # Build
 
-```
 Download vEOS-lab-4.20.1F-virtualbox.box
 - https://www.arista.com/en/support/software-download
 
